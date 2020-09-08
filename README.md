@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **RandolphVI/RandolphVI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🍻 Welcome stranger
+- 🎓: A Ph.D student in University of Science and Technology of China (USTC).
+- 🎯: Interested in NLP & Education area. Recently Focusing on Hyperbolic space on NLP tasks.
+
+
+### 🎉 News
+- Wei Tong, Shiwei Tong, **Wei Huang**, Liyang He, Jianhui Ma, Qi Liu, Enhong Chen, [Exploiting Knowledge Structure for Finding Similar Exercises in Online Education Systems](), The 20th IEEE International Conference on Data Mining (ICDM'2020), Sorrento, Italy, Nov 17-20, 2020.
+- Shiwei Tong, Qi Liu, **Wei Huang**, Zhenya Huang, Enhong Chen, Chuanren Liu, Haiping Ma, and Shijin Wang, [Structure-based Knowledge Tracing: An Influence Propagation View](), The 20th IEEE International Conference on Data Mining (ICDM'2020), Sorrento, Italy, Nov 17-20, 2020.
+- Xin Wang, **Wei Huang**, Qi Liu, Yu Yin, Zhenya Huang, Le Wu, Jianhui Ma, Xue Wang, [Fine-Grained Similarity Measurement between Educational Videos and Exercises](), The 28th ACM International Conference on Multimedia (ACM MM'2020), Seattle, USA, October 12-16 2020. Accepted.
+- Yang Liu, Zhi Li, **Wei Huang**, Tong Xu, Enhong Chen, [Exploiting Structural and Temporal Influence for Dynamic Social-Aware Recommendation](https://link.springer.com/article/10.1007/s11390-020-9956-9), In Journal of Computer Science and Technology (JCST'2020), 2020, 35(2), 281–294. 
+- **Wei Huang**, Qi Liu, Enhong Chen, Yuying Chen, Zai Huang, Yang Liu, Dan Zhang, Zhou Zhao, [Hierarchical Multi-label Text Classification: An Attention-based Recurrent Network Approach](https://github.com/RandolphVI/Hierarchical-Multi-Label-Text-Classification), The 28th ACM International Conference on Information and Knowledge Management (CIKM’2019), Beijing, China, November 3-7 2019.
