@@ -19,8 +19,11 @@ Here are some ideas to get you started:
 
 
 ### 🎉 News
-- Wei Tong, Shiwei Tong, **Wei Huang**, Liyang He, Jianhui Ma, Qi Liu, Enhong Chen, [Exploiting Knowledge Hierarchy for Finding Similar Exercises in Online Education Systems](https://ieeexplore.ieee.org/abstract/document/9338316), The 20th IEEE International Conference on Data Mining (ICDM'2020), Sorrento, Italy, Nov 17-20, 2020.
-- Shiwei Tong, Qi Liu, **Wei Huang**, Zhenya Huang, Enhong Chen, Chuanren Liu, Haiping Ma, and Shijin Wang, [Structure-based Knowledge Tracing: An Influence Propagation View](https://ieeexplore.ieee.org/document/9338285), The 20th IEEE International Conference on Data Mining (ICDM'2020), Sorrento, Italy, Nov 17-20, 2020.
-- Xin Wang, **Wei Huang**, Qi Liu, Yu Yin, Zhenya Huang, Le Wu, Jianhui Ma, Xue Wang, [Fine-Grained Similarity Measurement between Educational Videos and Exercises](https://dl.acm.org/doi/10.1145/3394171.3413783), The 28th ACM International Conference on Multimedia (ACM MM'2020), Seattle, USA, October 12-16 2020.
-- Yang Liu, Zhi Li, **Wei Huang**, Tong Xu, Enhong Chen, [Exploiting Structural and Temporal Influence for Dynamic Social-Aware Recommendation](https://link.springer.com/article/10.1007/s11390-020-9956-9), In Journal of Computer Science and Technology (JCST'2020), 2020, 35(2), 281–294. 
-- **Wei Huang**, Qi Liu, Enhong Chen, Yuying Chen, Zai Huang, Yang Liu, Dan Zhang, Zhou Zhao, [Hierarchical Multi-label Text Classification: An Attention-based Recurrent Network Approach](https://github.com/RandolphVI/Hierarchical-Multi-Label-Text-Classification), The 28th ACM International Conference on Information and Knowledge Management (CIKM’2019), Beijing, China, November 3-7 2019.
+#### 2020
+- Wei Tong, Shiwei Tong, **Wei Huang**, et al. [Exploiting Knowledge Hierarchy for Finding Similar Exercises in Online Education Systems](https://ieeexplore.ieee.org/document/9338316), ICDM'2020, 2020: 1298-1303.
+- Shiwei Tong, Qi Liu, **Wei Huang**, et al. [Structure-based Knowledge Tracing: An Influence Propagation View](https://ieeexplore.ieee.org/document/9338285), ICDM'2020, 2020: 541-550.
+- Xin Wang, **Wei Huang**, Qi Liu, et al. [Fine-Grained Similarity Measurement between Educational Videos and Exercises](https://dl.acm.org/doi/10.1145/3394171.3413783), ACM MM'2020, 2020: 331-339.
+- Yang Liu, Zhi Li, **Wei Huang**, Tong Xu, Enhong Chen. [Exploiting Structural and Temporal Influence for Dynamic Social-Aware Recommendation](https://link.springer.com/article/10.1007/s11390-020-9956-9), JCST'2020, 2020, 35(2), 281–294. 
+
+#### 2019
+- **Wei Huang**, Qi Liu, Enhong Chen, et al. [Hierarchical Multi-label Text Classification: An Attention-based Recurrent Network Approach](https://github.com/RandolphVI/Hierarchical-Multi-Label-Text-Classification), CIKM’2019, 2019: 1051-1060.
