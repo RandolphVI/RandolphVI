@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 
 
 ### 🎉 News
+#### 2021
+- Shuanghong Shen, Qi Liu, Enhong Chen, Zhenya Huang, **Wei Huang**, et al. Learning Process-consistent Knowledge Tracing, KDD'2021, Accepted.
+- Shiwei Tong, Qi Liu, Runlong Yu, **Wei Huang**, Zhenya Huang, Zachary A. Pardos, Weijie Jiang, Item Response Ranking for Cognitive Diagnosis, IJCAI'2021, Accepted.
+
 #### 2020
 - Wei Tong, Shiwei Tong, **Wei Huang**, et al. [Exploiting Knowledge Hierarchy for Finding Similar Exercises in Online Education Systems](https://ieeexplore.ieee.org/document/9338316), ICDM'2020, 2020: 1298-1303.
 - Shiwei Tong, Qi Liu, **Wei Huang**, et al. [Structure-based Knowledge Tracing: An Influence Propagation View](https://ieeexplore.ieee.org/document/9338285), ICDM'2020, 2020: 541-550.
