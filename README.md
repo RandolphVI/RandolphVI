@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 
 ### 🎉 News
 #### 2021
-- Shuanghong Shen, Qi Liu, Enhong Chen, Zhenya Huang, **Wei Huang**, et al. Learning Process-consistent Knowledge Tracing, KDD'2021, Accepted.
-- Shiwei Tong, Qi Liu, Runlong Yu, **Wei Huang**, Zhenya Huang, Zachary A. Pardos, Weijie Jiang, Item Response Ranking for Cognitive Diagnosis, IJCAI'2021, Accepted.
+- Ye Huang, **Wei Huang**, Shiwei Tong, et al. _STAN: Adversarial Network for Cross-domain Question Difficulty Prediction_, ICDM'2021, Accepted.
+- Shuanghong Shen, Qi Liu, Enhong Chen, Zhenya Huang, **Wei Huang**, et al. _Learning Process-consistent Knowledge Tracing_, KDD'2021, Accepted.
+- Shiwei Tong, Qi Liu, Runlong Yu, **Wei Huang**, Zhenya Huang, Zachary A. Pardos, Weijie Jiang, _Item Response Ranking for Cognitive Diagnosis_, IJCAI'2021, Accepted.
 
 #### 2020
 - Wei Tong, Shiwei Tong, **Wei Huang**, et al. [Exploiting Knowledge Hierarchy for Finding Similar Exercises in Online Education Systems](https://ieeexplore.ieee.org/document/9338316), ICDM'2020, 2020: 1298-1303.
