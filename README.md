@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 ### 🎉 News
 #### 2021
 - Ye Huang, **Wei Huang**, Shiwei Tong, et al. _STAN: Adversarial Network for Cross-domain Question Difficulty Prediction_, ICDM'2021, Accepted.
-- Shuanghong Shen, Qi Liu, Enhong Chen, Zhenya Huang, **Wei Huang**, et al. _[Learning Process-consistent Knowledge Tracing](https://dl.acm.org/doi/abs/10.1145/3447548.3467237)_, KDD'2021, Accepted.
-- Shiwei Tong, Qi Liu, Runlong Yu, **Wei Huang**, Zhenya Huang, Zachary A. Pardos, Weijie Jiang, _[Item Response Ranking for Cognitive Diagnosis](https://www.ijcai.org/proceedings/2021/241)_, IJCAI'2021, Accepted.
+- Shuanghong Shen, Qi Liu, Enhong Chen, Zhenya Huang, **Wei Huang**, et al. _[Learning Process-consistent Knowledge Tracing](https://dl.acm.org/doi/abs/10.1145/3447548.3467237)_, KDD'2021, 2021: 1452-1460.
+- Shiwei Tong, Qi Liu, Runlong Yu, **Wei Huang**, Zhenya Huang, Zachary A. Pardos, Weijie Jiang, _[Item Response Ranking for Cognitive Diagnosis](https://www.ijcai.org/proceedings/2021/241)_, IJCAI'2021, 2021: 1750-1756.
 
 #### 2020
 - Wei Tong, Shiwei Tong, **Wei Huang**, et al. _[Exploiting Knowledge Hierarchy for Finding Similar Exercises in Online Education Systems](https://ieeexplore.ieee.org/document/9338316)_, ICDM'2020, 2020: 1298-1303.
