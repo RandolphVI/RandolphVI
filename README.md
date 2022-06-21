@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - Zheng Gong, Shiwei Tong, Han Wu, Qi Liu, Hanqing Tao, **Wei Huang**, et al. _[Tipster: A Topic-Guided Language Model for Topic-Aware Text Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-00129-1_14)_, DASFAA'2022, Accepted.
 
 #### 2021
-- Siqi Lei, **Wei Huang**, Shiwei Tong, Qi Liu, Zhenya Huang, Enhong Chen, et al. _[Consistency-aware Multi-modal Network for Hierarchical Multi-label Classification in Online Education System](https://ieeexplore.ieee.org/document/9679059)_, **Best Student Paper**, ICBK'2021, 2021: 1-8.
+- Siqi Lei, **Wei Huang**, Shiwei Tong, Qi Liu, Zhenya Huang, Enhong Chen, et al. _[Consistency-aware Multi-modal Network for Hierarchical Multi-label Classification in Online Education System](https://ieeexplore.ieee.org/document/9667767)_, **Best Student Paper**, ICBK'2021, 2021: 1-8.
 - Ye Huang, **Wei Huang**, Shiwei Tong, et al. _[STAN: Adversarial Network for Cross-domain Question Difficulty Prediction](https://ieeexplore.ieee.org/document/9679059)_, ICDM'2021, 2021: 220-229.
 - Shuanghong Shen, Qi Liu, Enhong Chen, Zhenya Huang, **Wei Huang**, et al. _[Learning Process-consistent Knowledge Tracing](https://dl.acm.org/doi/abs/10.1145/3447548.3467237)_, KDD'2021, 2021: 1452-1460.
 - Shiwei Tong, Qi Liu, Runlong Yu, **Wei Huang**, Zhenya Huang, Zachary A. Pardos, Weijie Jiang, _[Item Response Ranking for Cognitive Diagnosis](https://www.ijcai.org/proceedings/2021/241)_, IJCAI'2021, 2021: 1750-1756.
