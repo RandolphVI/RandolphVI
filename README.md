@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 ### 🎉 News
 #### 2022
-- Jiatong Li, Fei Wang, **Wei Huang**, et al. _HierCDF: A Bayesian Network-based Hierarchical Cognitive Diagnosis Framework_, KDD'2022, Accepted. 
-- Shiwei Tong, **Wei Huang**, et al. _Incremental Cognitive Diagnosis for Intelligent Education_, KDD'2022, Accepted. 
+- Jiatong Li, Fei Wang, **Wei Huang**, et al. _[HierCDF: A Bayesian Network-based Hierarchical Cognitive Diagnosis Framework](https://dl.acm.org/doi/10.1145/3534678.3539486)_, KDD'2022, Accepted. 
+- Shiwei Tong, **Wei Huang**, et al. _[Incremental Cognitive Diagnosis for Intelligent Education](https://dl.acm.org/doi/10.1145/3534678.3539399)_, KDD'2022, Accepted. 
 - Zheng Gong, Shiwei Tong, Han Wu, Qi Liu, Hanqing Tao, **Wei Huang**, et al. _[Tipster: A Topic-Guided Language Model for Topic-Aware Text Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-00129-1_14)_, DASFAA'2022, Accepted.
 
 #### 2021
