@@ -15,14 +15,15 @@ Here are some ideas to get you started:
 
 ### 🍻 Welcome stranger
 - 🎓: A Ph.D student in University of Science and Technology of China (USTC).
-- 🎯: Interested in NLP & Education area. Recently Focusing on Hyperbolic space on NLP tasks.
+- 🎯: Interested in NLP & Education area. Mainly Focusing on Hierarchical Multi-label Classification Tasks.
 
 
 ### 🎉 News
 #### 2022
-- Jiatong Li, Fei Wang, Qi Liu, Mengxiao Zhu, **Wei Huang**, et al. _[HierCDF: A Bayesian Network-based Hierarchical Cognitive Diagnosis Framework](https://dl.acm.org/doi/10.1145/3534678.3539486)_, KDD'2022, Accepted. 
-- Shiwei Tong, Jiayu Liu, Yuting Hong, Zhenya Huang, Le Wu, Qi Liu, **Wei Huang**, et al. _[Incremental Cognitive Diagnosis for Intelligent Education](https://dl.acm.org/doi/10.1145/3534678.3539399)_, KDD'2022, Accepted. 
-- Zheng Gong, Shiwei Tong, Han Wu, Qi Liu, Hanqing Tao, **Wei Huang**, et al. _[Tipster: A Topic-Guided Language Model for Topic-Aware Text Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-00129-1_14)_, DASFAA'2022, Accepted.
+- **Wei Huang**, Enhong Chen, Qi Liu, Hui Xiong, Zhenya Huang, Shiwei Tong, et al. HmcNet: A General Approach for Hierarchical Multi-label Classification, TKDE'2022, Accepted.
+- Jiatong Li, Fei Wang, Qi Liu, Mengxiao Zhu, **Wei Huang**, et al. _[HierCDF: A Bayesian Network-based Hierarchical Cognitive Diagnosis Framework](https://dl.acm.org/doi/10.1145/3534678.3539486)_, KDD'2022, 2022: 904-913. 
+- Shiwei Tong, Jiayu Liu, Yuting Hong, Zhenya Huang, Le Wu, Qi Liu, **Wei Huang**, et al. _[Incremental Cognitive Diagnosis for Intelligent Education](https://dl.acm.org/doi/10.1145/3534678.3539399)_, KDD'2022, 2022: 1760-1770. 
+- Zheng Gong, Shiwei Tong, Han Wu, Qi Liu, Hanqing Tao, **Wei Huang**, et al. _[Tipster: A Topic-Guided Language Model for Topic-Aware Text Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-00129-1_14)_, DASFAA'2022, 2022: 213-221.
 
 #### 2021
 - Siqi Lei, **Wei Huang**, Shiwei Tong, Qi Liu, Zhenya Huang, Enhong Chen, et al. _[Consistency-aware Multi-modal Network for Hierarchical Multi-label Classification in Online Education System](https://ieeexplore.ieee.org/document/9667767)_, **Best Student Paper**, ICBK'2021, 2021: 1-8.
