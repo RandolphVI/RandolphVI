@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### 🎉 News
 #### 2022
-- **Wei Huang**, Enhong Chen, Qi Liu, Hui Xiong, Zhenya Huang, Shiwei Tong, et al. HmcNet: A General Approach for Hierarchical Multi-label Classification, TKDE'2022, Accepted.
+- **Wei Huang**, Enhong Chen, Qi Liu, Hui Xiong, Zhenya Huang, Shiwei Tong, et al. _HmcNet: A General Approach for Hierarchical Multi-label Classification_, TKDE'2022, Accepted.
 - Jiatong Li, Fei Wang, Qi Liu, Mengxiao Zhu, **Wei Huang**, et al. _[HierCDF: A Bayesian Network-based Hierarchical Cognitive Diagnosis Framework](https://dl.acm.org/doi/10.1145/3534678.3539486)_, KDD'2022, 2022: 904-913. 
 - Shiwei Tong, Jiayu Liu, Yuting Hong, Zhenya Huang, Le Wu, Qi Liu, **Wei Huang**, et al. _[Incremental Cognitive Diagnosis for Intelligent Education](https://dl.acm.org/doi/10.1145/3534678.3539399)_, KDD'2022, 2022: 1760-1770. 
 - Zheng Gong, Shiwei Tong, Han Wu, Qi Liu, Hanqing Tao, **Wei Huang**, et al. _[Tipster: A Topic-Guided Language Model for Topic-Aware Text Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-00129-1_14)_, DASFAA'2022, 2022: 213-221.
