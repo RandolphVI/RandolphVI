@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 ### 🍻 Welcome stranger
 - 🎓: A Ph.D student in University of Science and Technology of China (USTC).
 - 🎯: Interested in NLP & Education area. Mainly Focusing on Hierarchical Multi-label Classification Tasks.
+- 👾: I'm a die-hard fan of the Fallout ☢️ and Witcher 🐺 series, and I especially love CRPG games & indie games. Feel free to add my [Steam](https://steamcommunity.com/id/Chinawolfman/).
 
 
 ### 🎉 News
