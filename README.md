@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### 🎉 News
 #### :octocat: 2022
 - **Wei Huang**, Enhong Chen, Qi Liu, Hui Xiong, Zhenya Huang, Shiwei Tong, et al. _[HmcNet: A General Approach for Hierarchical Multi-label Classification](https://ieeexplore.ieee.org/abstract/document/9894725)_, TKDE'2022, Accepted.
-- Shuanghong Shen, Qi Liu, Enhong Chen, Zhenya Huang, **Wei Huang**, et al. _Monitoring Student Progress for Learning Process-consistent Knowledge Tracing_, TKDE'2022, Accepted.
+- Shuanghong Shen, Qi Liu, Enhong Chen, Zhenya Huang, **Wei Huang**, et al. _Monitoring Student Progress for Learning Process-consistent Knowledge Tracing(https://ieeexplore.ieee.org/document/9950313)_, TKDE'2022, Accepted.
 - Jiatong Li, Fei Wang, Qi Liu, Mengxiao Zhu, **Wei Huang**, et al. _[HierCDF: A Bayesian Network-based Hierarchical Cognitive Diagnosis Framework](https://dl.acm.org/doi/10.1145/3534678.3539486)_, KDD'2022, 2022: 904-913. 
 - Shiwei Tong, Jiayu Liu, Yuting Hong, Zhenya Huang, Le Wu, Qi Liu, **Wei Huang**, et al. _[Incremental Cognitive Diagnosis for Intelligent Education](https://dl.acm.org/doi/10.1145/3534678.3539399)_, KDD'2022, 2022: 1760-1770. 
 - Yuren Zhang, Enhong Chen, Binbin Jin, Hao Wang, Min Hou, **Wei Huang** and Runlong Yu. _[Clustering based Behavior Sampling with Long Sequential Data for CTR Prediction](https://web.archive.org/web/20220709042533id_/https://dl.acm.org/doi/pdf/10.1145/3477495.3531829)_, SIGIR'2022, 2022: 2195-2200.
