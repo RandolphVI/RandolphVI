@@ -20,8 +20,10 @@ Here are some ideas to get you started:
 
 
 ### 🎉 News
-#### :octocat: 2022
+#### :octocat: 2023
 - **Wei Huang**, Tong Xiao, Qi Liu, Zhenya Huang, et al. _[HMNet: A Hierarchical Multi-modal Network for Educational Video Concept Prediction]()_, JMLC'2023, Accepted.
+
+#### :octocat: 2022
 - **Wei Huang**, Enhong Chen, Qi Liu, Hui Xiong, Zhenya Huang, Shiwei Tong, et al. _[HmcNet: A General Approach for Hierarchical Multi-label Classification](https://ieeexplore.ieee.org/abstract/document/9894725)_, TKDE'2022, Accepted.
 - Shuanghong Shen, Qi Liu, Enhong Chen, Zhenya Huang, **Wei Huang**, et al. _[Monitoring Student Progress for Learning Process-consistent Knowledge Tracing](https://ieeexplore.ieee.org/document/9950313)_, TKDE'2022, Accepted.
 - Jiatong Li, Fei Wang, Qi Liu, Mengxiao Zhu, **Wei Huang**, et al. _[HierCDF: A Bayesian Network-based Hierarchical Cognitive Diagnosis Framework](https://dl.acm.org/doi/10.1145/3534678.3539486)_, KDD'2022, 2022: 904-913. 
