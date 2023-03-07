@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### 🎉 News
 #### :octocat: 2023
-- **Wei Huang**, Tong Xiao, Qi Liu, Zhenya Huang, et al. _[HMNet: A Hierarchical Multi-modal Network for Educational Video Concept Prediction]()_, JMLC'2023, Accepted.
+- **Wei Huang**, Tong Xiao, Qi Liu, Zhenya Huang, et al. _HMNet: A Hierarchical Multi-modal Network for Educational Video Concept Prediction, JMLC'2023, Accepted.
 
 #### :octocat: 2022
 - **Wei Huang**, Enhong Chen, Qi Liu, Hui Xiong, Zhenya Huang, Shiwei Tong, et al. _[HmcNet: A General Approach for Hierarchical Multi-label Classification](https://ieeexplore.ieee.org/abstract/document/9894725)_, TKDE'2022, Accepted.
