@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 -->
 
 ### 🍻 Welcome stranger
-- 🎓: A Ph.D student in University of Science and Technology of China (USTC).
+- 🎓: A Ph.D graduated from University of Science and Technology of China (USTC).
 - 🎯: Interested in NLP & Education area. Mainly Focusing on Hierarchical Multi-label Classification Tasks.
 - 👾: I'm a die-hard fan of the Fallout ☢️ and Witcher 🐺 series, and I especially love CRPG games & indie games. Feel free to add my [Steam](https://steamcommunity.com/id/Chinawolfman/).
 
 
 ### 🎉 News
 #### :octocat: 2023
-- **Wei Huang**, Tong Xiao, Qi Liu, Zhenya Huang, et al. _HMNet: A Hierarchical Multi-modal Network for Educational Video Concept Prediction_, JMLC'2023, Accepted.
+- **Wei Huang**, Tong Xiao, Qi Liu, Zhenya Huang, et al. _[HMNet: A Hierarchical Multi-modal Network for Educational Video Concept Prediction](https://link.springer.com/article/10.1007/s13042-023-01809-6?utm_source=xmol&utm_medium=affiliate&utm_content=meta&utm_campaign=DDCN_1_GL01_metadata)_, JMLC'2023, Accepted.
 
 #### :octocat: 2022
 - **Wei Huang**, Enhong Chen, Qi Liu, Hui Xiong, Zhenya Huang, Shiwei Tong, et al. _[HmcNet: A General Approach for Hierarchical Multi-label Classification](https://ieeexplore.ieee.org/abstract/document/9894725)_, TKDE'2022, Accepted.
