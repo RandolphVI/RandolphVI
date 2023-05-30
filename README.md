@@ -13,21 +13,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🍻 Welcome stranger
+🍻 Welcome stranger
 - 🎓: A Ph.D graduated from University of Science and Technology of China (USTC).
 - 🎯: Interested in NLP & Education area. Mainly Focusing on Hierarchical Multi-label Classification Tasks.
 - 👾: I'm a die-hard fan of the Fallout ☢️ and Witcher 🐺 series, and I especially love CRPG games & indie games. Feel free to add my [Steam](https://steamcommunity.com/id/Chinawolfman/).
 
-### 🎮 Games
+🧰 My Projects
 
-#### 👾 2023
+- 🛠 [Multi-label Classification](https://github.com/RandolphVI/Multi-Label-Text-Classification): a collection of deep neural network models for beginners, designed to solve **Multi-label Classification** problems, built in TensorFlow.
+- 🛠 [Semantic Textual Similarity](https://github.com/RandolphVI/Text-Pairs-Relation-Classification): a collection of deep neural network models for beginners, designed to solve **Semantic Textual Similarity** problems, built in TensorFlow.
+- 📚 [Question Difficulty Prediction](https://github.com/RandolphVI/Question-Difficulty-Prediction): a collection of deep neural network models for **Question Difficulty Prediction** problems, built in TensorFlow & PyTorch.
+- 🌶 [HARNN](https://dl.acm.org/doi/10.1145/3357384.3357885): an attention-based recurrent network Approach for **Hierarchical Multi-label Text Classification (HMC)**, accepted at CIKM 2019 and built in TensorFlow. \[[Papers](https://dl.acm.org/doi/10.1145/3357384.3357885)\] | \[[Code](https://github.com/RandolphVI/Hierarchical-Multi-Label-Text-Classification)\]
+- 🌶 [HmcNet](https://ieeexplore.ieee.org/document/9894725): a general approach that incorporates both explicit and implicit class hierarchy constraints, designed to solve **Hierarchical Multi-label Text Classification (HMC)**, accepted at TKDE 2022 and built in PyTorch. \[[Papers](https://ieeexplore.ieee.org/document/9894725)\] | \[[Code](https://github.com/RandolphVI/HmcNet)\]
+- 🌶 [HMNet](https://link.springer.com/article/10.1007/s13042-023-01809-6): an attention-based recurrent network Approach for Hierarchical Multi-label Text Classification (HMC), accepted at JMLC 2023.\[[Papers](https://link.springer.com/article/10.1007/s13042-023-01809-6)\]
+
+🎉 News
 
 - I've been engrossed in the **The Legend of Zelda: Tears of the Kingdom**, Nintendo rules the fxxking world!
 
-### 🎉 News
+<details>
+  <summary>:octocat: All Works</summary>
 
 #### :octocat: 2023
-- **Wei Huang**, Tong Xiao, Qi Liu, Zhenya Huang, et al. _[HMNet: A Hierarchical Multi-modal Network for Educational Video Concept Prediction](https://link.springer.com/article/10.1007/s13042-023-01809-6?utm_source=xmol&utm_medium=affiliate&utm_content=meta&utm_campaign=DDCN_1_GL01_metadata)_, JMLC'2023, Accepted.
+- **Wei Huang**, Tong Xiao, Qi Liu, Zhenya Huang, et al. _[HMNet: A Hierarchical Multi-modal Network for Educational Video Concept Prediction](https://link.springer.com/article/10.1007/s13042-023-01809-6)_, JMLC'2023, Accepted.
 
 #### :octocat: 2022
 - **Wei Huang**, Enhong Chen, Qi Liu, Hui Xiong, Zhenya Huang, Shiwei Tong, et al. _[HmcNet: A General Approach for Hierarchical Multi-label Classification](https://ieeexplore.ieee.org/abstract/document/9894725)_, TKDE'2022, Accepted.
@@ -51,3 +59,7 @@ Here are some ideas to get you started:
 
 #### :octocat: 2019
 - **Wei Huang**, Qi Liu, Enhong Chen, et al. _[Hierarchical Multi-label Text Classification: An Attention-based Recurrent Network Approach](https://github.com/RandolphVI/Hierarchical-Multi-Label-Text-Classification)_, CIKM’2019, 2019: 1051-1060.
+
+</details>
+
+<!-- [![Randolph's GitHub stats](https://github-readme-stats.vercel.app/api?username=RandolphVI&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) -->
