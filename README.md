@@ -18,8 +18,14 @@ Here are some ideas to get you started:
 - 🎯: Interested in NLP & Education area. Mainly Focusing on Hierarchical Multi-label Classification Tasks.
 - 👾: I'm a die-hard fan of the Fallout ☢️ and Witcher 🐺 series, and I especially love CRPG games & indie games. Feel free to add my [Steam](https://steamcommunity.com/id/Chinawolfman/).
 
+### 🎮 Games
+
+#### 👾 2023
+
+- I've been engrossed in the **The Legend of Zelda: Tears of the Kingdom**, Nintendo rules the fxxking world!
 
 ### 🎉 News
+
 #### :octocat: 2023
 - **Wei Huang**, Tong Xiao, Qi Liu, Zhenya Huang, et al. _[HMNet: A Hierarchical Multi-modal Network for Educational Video Concept Prediction](https://link.springer.com/article/10.1007/s13042-023-01809-6?utm_source=xmol&utm_medium=affiliate&utm_content=meta&utm_campaign=DDCN_1_GL01_metadata)_, JMLC'2023, Accepted.
 
