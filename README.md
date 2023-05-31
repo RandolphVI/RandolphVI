@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 - 🎯: Interested in NLP & Education area. Mainly Focusing on Hierarchical Multi-label Classification Tasks.
 - 👾: I'm a die-hard fan of the Fallout ☢️ and Witcher 🐺 series, and I especially love CRPG games & indie games. Feel free to add my [Steam](https://steamcommunity.com/id/Chinawolfman/).
 
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=17708846&auto=1&height=66"></iframe>
+
 🧰 My Projects
 
 - 🛠 [Multi-label Classification](https://github.com/RandolphVI/Multi-Label-Text-Classification): a collection of deep neural network models for beginners, designed to solve **Multi-label Classification** problems, built in TensorFlow.
