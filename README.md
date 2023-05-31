@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 
 🎉 News
 
-- I've been engrossed in the **The Legend of Zelda: Tears of the Kingdom**, Nintendo rules the fxxking world!
+- \[2023 May\] I've been engrossed in the **The Legend of Zelda: Tears of the Kingdom**, Nintendo rules the fxxking world!
+- \[2023 April\] I've cleared **Octopath Traveler II**, スクエニさん、さすがかよ!
 
 <details>
   <summary>:octocat: All Works</summary>
