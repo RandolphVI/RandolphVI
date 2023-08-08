@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 
 🎉 News
 
+- \[2023 August\] Gods Among Us, **Baldur's Gate 3**!
 - \[2023 June\] I've suffered in the **Darkest Dungeon**, and no one is spared!
 - \[2023 May\] I've been engrossed in the **The Legend of Zelda: Tears of the Kingdom**, Nintendo rules the fxxking world!
 - \[2023 April\] I've cleared **Octopath Traveler II**, スクエニさん、さすがかよ!
