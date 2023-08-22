@@ -39,7 +39,8 @@ Here are some ideas to get you started:
   <summary>:octocat: All Works</summary>
 
 #### :octocat: 2023
-- **Wei Huang**, Tong Xiao, Qi Liu, Zhenya Huang, et al. _[HMNet: A Hierarchical Multi-modal Network for Educational Video Concept Prediction](https://link.springer.com/article/10.1007/s13042-023-01809-6)_, JMLC'2023, Accepted.
+- Hong Yuting, Shiwei Tong, **Wei Huang**, Yan Zhuang, Qi Liu, Enhong Chen, et al. _[Search-Efficient Computerized Adaptive Testing]()_, CIKM'2023, Accepted.
+- **Wei Huang**, Tong Xiao, Qi Liu, Zhenya Huang, et al. _[HMNet: A Hierarchical Multi-modal Network for Educational Video Concept Prediction](https://link.springer.com/article/10.1007/s13042-023-01809-6)_, JMLC'2023, 2023: 1-12.
 
 #### :octocat: 2022
 - **Wei Huang**, Enhong Chen, Qi Liu, Hui Xiong, Zhenya Huang, Shiwei Tong, et al. _[HmcNet: A General Approach for Hierarchical Multi-label Classification](https://ieeexplore.ieee.org/abstract/document/9894725)_, TKDE'2022, Accepted.
