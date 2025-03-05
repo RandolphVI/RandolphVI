@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 
 🎉 News
 
+- \[2025 Feb\] Got ambushed by Benny... again in **Fallout: New Vegas**! "Patrolling the Mojave" turned into a 17th playthrough—still can’t decide if I'm Caesar's worst nightmare or Yes Man's personal errand courier. Obsidian's spaghetti code? Still a masterpiece. 
+- \[2024 Oct\] Dodging reality in **Metaphor: ReFantazio**, who needs sleep when there's another 100-hour persona-esque journey to binge?！
 - \[2023 Aug\] Gods Among Us, **Baldur's Gate 3**!
 - \[2023 Jun\] I've suffered in the **Darkest Dungeon**, and no one is spared!
 - \[2023 May\] I've been engrossed in the **The Legend of Zelda: Tears of the Kingdom**, Nintendo rules the fxxking world!
