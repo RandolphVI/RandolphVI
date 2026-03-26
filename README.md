@@ -40,9 +40,12 @@ Here are some ideas to get you started:
 <details>
   <summary>:octocat: All Works</summary>
 
+#### :octocat: 2026
+- Mengxiao Zhu, Li Feng, Xin Wang, **Wei Huang***. [Context-Aware Prompting for Collaborative Problem Solving Skill Identification](https://www.sciencedirect.com/science/article/pii/S2666920X26000299) [J] CAEAI'2026, 2026: 100567.
+
 #### :octocat: 2025
 - Xinyun He, Qi Shu, Mo Zhang, **Wei Huang**, Han Zhao, Mengxiao Zhu. _[Beyond Final Products: Multi-Dimensional Essay Scoring Using Keystroke Logs and Deep Learning](https://dl.acm.org/doi/full/10.1145/3706468.3706548)_ [C] LAK'2025, 2025: 601-610.
-- 
+  
 #### :octocat: 2024
 - Mengxiao Zhu, Xin Wang, Xiantao Wang, Zihang Chen, **Wei Huang**. _[Application of Prompt Learning Models in Identifying the Collaborative Problem Solving Skills in an Online Task](https://dl.acm.org/doi/abs/10.1145/3686981)_ [J] CSCW'2024, 8(CSCW2): 1-23.
 - Dongxuan Han, Qi Liu, Siqi Lei, Shiwei Tong, **Wei Huang**. _[HeckmanCD: Exploiting Selection Bias in Cognitive Diagnosis](https://dl.acm.org/doi/abs/10.1145/3627673.3679648)_ [C] CIKM'2024, 2024: 768-777.
