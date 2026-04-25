@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🍻 Welcome stranger
+## 🍻 Welcome stranger
 - 🎓: A Ph.D graduated from University of Science and Technology of China (USTC).
 - 🎯: Interested in NLP & Education area. Mainly Focusing on Hierarchical Multi-label Classification Tasks.
 - 👾: I'm a die-hard fan of the Fallout ☢️ and Witcher 🐺 series, and I especially love CRPG games & indie games. Feel free to add my [Steam](https://steamcommunity.com/id/Chinawolfman/).
 
 
-🧰 My Projects
+## 🧰 My Projects
 
 - 🛠 [Multi-label Classification](https://github.com/RandolphVI/Multi-Label-Text-Classification): a collection of deep neural network models for beginners, designed to solve **Multi-label Classification** problems, built in TensorFlow.
 - 🛠 [Semantic Textual Similarity](https://github.com/RandolphVI/Text-Pairs-Relation-Classification): a collection of deep neural network models for beginners, designed to solve **Semantic Textual Similarity** problems, built in TensorFlow.
@@ -28,17 +28,30 @@ Here are some ideas to get you started:
 - 🍻 [HmcNet](https://ieeexplore.ieee.org/document/9894725): a general approach that incorporates both explicit and implicit class hierarchy constraints, designed to solve **Hierarchical Multi-label Text Classification (HMC)**, accepted at TKDE 2022 and built in PyTorch. \[[Papers](https://ieeexplore.ieee.org/document/9894725)\] | \[[Code](https://github.com/RandolphVI/HmcNet)\]
 - 🍻 [HMNet](https://link.springer.com/article/10.1007/s13042-023-01809-6): a multi-modal method that captures class dependencies to solve **Educational Video Concept Prediction** problems, accepted at JMLC 2023. \[[Papers](https://link.springer.com/article/10.1007/s13042-023-01809-6)\]
 
-🎉 News
+## 🎉 News
 
-- \[2025 Feb\] Got ambushed by Benny... again in **Fallout: New Vegas**! "Patrolling the Mojave" turned into a 17th playthrough—still can’t decide if I'm Caesar's worst nightmare or Yes Man's personal errand courier. Obsidian's spaghetti code? Still a masterpiece. 
-- \[2024 Oct\] Dodging reality in **Metaphor: ReFantazio**, who needs sleep when there's another 100-hour persona-esque journey to binge?！
-- \[2023 Aug\] Gods Among Us, **Baldur's Gate 3**!
-- \[2023 Jun\] I've suffered in the **Darkest Dungeon**, and no one is spared!
-- \[2023 May\] I've been engrossed in the **The Legend of Zelda: Tears of the Kingdom**, Nintendo rules the fxxking world!
-- \[2023 Apr\] I've cleared **Octopath Traveler II**, スクエニさん、さすがかよ!
+### 汉化工作 | Localization Projects
+
+- [v2.0]  [Esoteric Ebb](https://github.com/RandolphVI/EsotericEbb_Chinese) 🎲 — 侦探 + 神职 + 苹果，三位一体的 CRPG 体验。
+- [v1.0] [Dead in Antares](https://github.com/RandolphVI/DeadInAntares_Chinese) 🥫 — 外星殖民地求生 RPG，罐头即道德。
+- [v1.0] [of the Devil](https://github.com/RandolphVI/oftheDevil_Chinese) 😈 — 与魔鬼立约的叙事小品，DLC 续写合同。
+- [v1.0] [The Pale Beyond](https://github.com/RandolphVI/ThePaleBeyond_Chinese) 🧊 — 南极冰原求生叙事，人心比物资难管。
+- [v1.0] [Athanasy](https://github.com/RandolphVI/Athanasy_Chinese) 🧬 — 地下巨城的生物朋克视觉小说，世界烂得比肉体快。
+
+### 最近游玩 | Recently Played
+
+- [2026 April] Bowing to petty gods and shipping crooks off to Exile Island in [Banquet for Fools](https://store.steampowered.com/app/3172700/Banquet_for_Fools/) 💀 — kill the bandit and he comes back as a ghost, stun him and he becomes paperwork. Pause-and-play party RPG that knows you survived Baldur's Gate II.
+- [2025 November] Back in the Zone with [S.T.A.L.K.E.R. 2: Heart of Chornobyl](https://store.steampowered.com/app/1643320/2/) ☢️ — A-Life 2.0 just means the Bloodsuckers spawn behind you AND in front of you. Get out of here, stalker — right after I sell these 17 broken AKs to Sidorovich.
+- [2025 April] Soul-swapped into a dying nobody in [逸剑风云决](https://store.steampowered.com/app/1876890/_/) ⚔️ — turns out 江湖 grievances all boil down to: punch harder, run faster, or write a better poem.
+- [2025 Feb] Got ambushed by Benny... again in [Fallout: New Vegas](https://store.steampowered.com/app/22380/Fallout_New_Vegas/) 🤠! "Patrolling the Mojave" turned into a 17th playthrough — still can't decide if I'm Caesar's worst nightmare or Yes Man's personal errand courier. Obsidian's spaghetti code? Still a masterpiece.
+- [2024 Oct] Dodging reality in [Metaphor: ReFantazio](https://store.steampowered.com/app/2679460/Metaphor_ReFantazio/) 👑, who needs sleep when there's another 100-hour persona-esque journey to binge?!
+- [2023 August] Gods Among Us, [Baldur's Gate 3](https://store.steampowered.com/app/1086940/Baldurs_Gate_3/) 🎲!
+- [2023 June] I've suffered in the [Darkest Dungeon](https://store.steampowered.com/app/262060/Darkest_Dungeon/) 🕯️, and no one is spared!
+- [2023 May] I've been engrossed in [The Legend of Zelda: Tears of the Kingdom](https://zelda.nintendo.com/tears-of-the-kingdom/) 🗡️, Nintendo rules the fxxking world!
+- [2023 April] I've cleared [Octopath Traveler II](https://store.steampowered.com/app/1971650/_II/) 🐙, スクエニさん、さすがかよ!
 
 <details>
-  <summary>:octocat: All Works</summary>
+  <summary># :octocat: All Works</summary>
 
 #### :octocat: 2026
 - Mengxiao Zhu, Li Feng, Xin Wang, **Wei Huang***. [Context-Aware Prompting for Collaborative Problem Solving Skill Identification](https://www.sciencedirect.com/science/article/pii/S2666920X26000299) [J] CAEAI'2026, 2026: 100567.
