@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ### 汉化工作 | Localization Projects
 
-- [v2.0]  [Esoteric Ebb](https://github.com/RandolphVI/EsotericEbb_Chinese) 🎲 — 侦探 + 神职 + 苹果，三位一体的 CRPG 体验。
+- [v2.1]  [Esoteric Ebb](https://github.com/RandolphVI/EsotericEbb_Chinese) 🎲 — 侦探 + 神职 + 苹果，三位一体的 CRPG 体验。
 - [v1.3] [Dead in Antares](https://github.com/RandolphVI/DeadInAntares_Chinese) 🥫 — 外星殖民地求生 RPG，罐头即道德。
 - [v1.0] [of the Devil](https://github.com/RandolphVI/oftheDevil_Chinese) 😈 — 与魔鬼立约的叙事小品，DLC 续写合同。
 - [v1.0] [The Pale Beyond](https://github.com/RandolphVI/ThePaleBeyond_Chinese) 🧊 — 南极冰原求生叙事，人心比物资难管。
